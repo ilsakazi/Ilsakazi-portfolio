@@ -9,7 +9,7 @@
 ---
 
 ## 🔐 About Me
-I am a BCA graduate and an M.Sc. Cybersecurity final-semester student with hands-on experience in **web development, AI automation, and cybersecurity fundamentals**. I enjoy building secure web applications, experimenting with automation, and conducting academic cybersecurity research in controlled lab environments.
+M.Sc. Cybersecurity (2026) and BCA graduate (2024) with hands-on experience in web development, cybersecurity analysis, and AI automation. Worked on web applications, AI chatbots, and academic malware & DFIR research in controlled lab environments. Seeking entry-level roles in Cybersecurity Analysis, SOC, or Digital Forensics.
 
 ---
 
