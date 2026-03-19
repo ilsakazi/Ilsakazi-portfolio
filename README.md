@@ -57,7 +57,7 @@ Academic Command-and-Control RAT designed to analyze attacker communication flow
 
 ## 🎓 Education
 - **M.Sc. Cybersecurity** – LJ University *(2024–2026)*  
-- **Bachelor of Computer Applications (BCA)** – LJ University *(2021–2024)* | CGPA: 7.51  
+- **Bachelor of Computer Applications (BCA)** – LJ University *(2021–2024)* | CGPA: 8.00  
 - **SSC & HSC** – Ankur School, Ahmedabad
 
 ---
